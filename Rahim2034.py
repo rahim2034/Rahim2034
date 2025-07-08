@@ -48,11 +48,6 @@ from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from urllib.parse import quote
 # UA LIST
-#ugen2=open('frec.txt','r').read().splitlines()
-#ugen=open('m.txt','r').read().splitlines()
-ugen2=['Mozilla/5.0 (Android 2.2; id-id; HTC Desire)/GoBrowser','Mozilla/5.0 (Android 2.2; id-id; HTC Desire)/GoBrowser']
-# INDICATION
-id,id2,loop,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],0,[],[],[],[],[],[],[],[]
 cp = 0
 ok = []
 try:
